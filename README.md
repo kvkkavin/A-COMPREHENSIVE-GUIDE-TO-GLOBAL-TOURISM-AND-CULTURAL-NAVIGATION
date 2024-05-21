@@ -144,10 +144,14 @@ By providing detailed information about various destinations and attractions, th
 
 Troubleshoot technical issues related to website functionality, navigation, and accessibility. Coordinate with web developers and IT support to resolve backend issues, optimize performance, and implement updates or enhancements. Offer guidance on using website features, such as search filters, interactive maps, and booking tools. Implement a live chat support system to offer real-time assistance to users who require immediate help or have specific inquiries. Employ knowledgeable support agents who can answer questions, troubleshoot technical issues, and provide personalized assistance to users. Offer email support services to allow users to submit queries, report issues, or request assistance at their convenience. Provide prompt and professional responses to user emails, addressing their concerns and resolving their issues in a timely manner. Implement a ticketing system to track and manage user queries, issues, and requests for technical support. Assign unique ticket numbers to each support request and track the status of tickets from submission to resolution.
 
-                                                       
+![1](https://github.com/kvkkavin/A-COMPREHENSIVE-GUIDE-TO-GLOBAL-TOURISM-AND-CULTURAL-NAVIGATION/blob/main/Screenshot%20(11).png)<br>                                                         
  
+
+
 ### User Query Support:
 Assist users with account registration, login issues, and password resets. Monitor user activity and address any violations of website policies or terms of service. Provide guidance on updating user profiles, preferences, and notifications. provide a mechanism for users to report bugs, glitches, or technical issues encountered while using the tourist guide system. Track reported bugs through a dedicated bug tracking system and prioritize them for resolution based on severity and impact on user experience. Provide users with an intuitive interface to submit their queries, questions, or requests for assistance. Include form fields for users to enter their contact information, query details, and any relevant attachments or screenshots. Offer multiple channels for users to submit queries, including email, live chat, phone support, and social media messaging.
+
+![1](https://github.com/kvkkavin/A-COMPREHENSIVE-GUIDE-TO-GLOBAL-TOURISM-AND-CULTURAL-NAVIGATION/blob/main/Screenshot%20(9).png)<br>    
 
  
 ## CHAPTER-6 CONCLUSION AND FUTURE ENHANCEMENT
